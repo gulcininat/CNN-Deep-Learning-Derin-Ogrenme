@@ -1,6 +1,7 @@
 # CNN-Deep-Learning-Derin-Ogrenme
 
-CNN (Convolutional Neural Network, Evrişimli Sinir Ağları) modeli kullanılmıştır. 
+CNN (Convolutional Neural Network, Evrişimli Sinir Ağları) algoritması kullanılmıştır. 
+Kendi rastgele denemeler sonucu elde edilen modeller denenmiştir.
 
 Drive üzerinden Colab platformunda yazılmıştır. 
 
