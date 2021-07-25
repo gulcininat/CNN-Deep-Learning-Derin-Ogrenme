@@ -1,4 +1,4 @@
-# CNN-Deep-Learning-Derin-Ogrenme
+# CNN-Deep-Learning-Derin-Öğrenme
 
 CNN (Convolutional Neural Network, Evrişimli Sinir Ağları) algoritması kullanılmıştır. 
 Kendi rastgele denemeler sonucu elde edilen modeller denenmiştir.
